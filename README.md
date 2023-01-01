@@ -15,10 +15,15 @@ VulnerableApp is built keeping these factors in mind. This project is scalable, 
 
 ### Static Application Security Testing (SAST)
 
+![CircleCI SAST](./docs/images/circleci-sast.png)
+
 <br/>
 <br/>
 
 ### Dynamic Application Security Testing (DAST)
 
+![CircleCI DAST](./docs/images/circleci-dast.png)
+
 <br/>
 <br/>
+
